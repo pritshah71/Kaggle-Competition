@@ -1,0 +1,167 @@
+id_num,Q1,Q2,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18
+2,Female,78,Conservative,College degree,White,Yes,Yes,No,"Yes, very religious",Pro-Choice,Yes,Yes,Behave no differently,4,5,1,Yes
+3,Male,59,Moderate,High school or less,Black,Yes,Yes,Yes,"Yes, very religious",Pro-Choice,No,No,More Willing,5,4,5,No
+4,Male,59,Moderate,High school or less,White,Yes,No,Yes,"Yes, very religious",Pro-life,Yes,No,Behave no differently,4,5,1,Yes
+6,Male,52,Moderate,Graduate degree,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-Choice,No,Yes,Less Willing,5,4,4,No
+11,Female,33,Moderate,High school or less,White,No,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,More Willing,5,5,4,Yes
+12,Female,48,Moderate,College degree,Latino,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,More Willing,5,1,2,Yes
+13,Female,61,Conservative,College degree,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,No,Behave no differently,4,5,1,Yes
+14,Female,61,Liberal,College degree,White,No,No,Yes,No,Pro-Choice,Yes,No,Behave no differently,5,2,1,No
+17,Female,43,Moderate,Graduate degree,White,Yes,Yes,Yes,No,Pro-Choice,Yes,No,Behave no differently,5,2,4,Yes
+21,Female,52,Liberal,Some college,White,No,No,Yes,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,5,4,2,No
+22,Male,63,Liberal,College degree,Black,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,2,5,Yes
+24,Male,22,Liberal,High school or less,White,No,No,No,No,Pro-Choice,Yes,No,Behave no differently,5,1,4,Yes
+25,Female,50,Moderate,College degree,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,2,5,No
+27,Female,67,Moderate,College degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,2,5,No
+28,Female,49,Conservative,College degree,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,No,Behave no differently,4,5,1,Yes
+31,Male,48,Conservative,Some college,White,No,No,Yes,"Yes, somewhat religious",Pro-life,Yes,No,Behave no differently,4,5,1,Yes
+33,Female,37,Liberal,Some college,Black,No,No,Yes,"Yes, very religious",Pro-life,No,No,Less Willing,4,5,1,No
+34,Male,60,Liberal,High school or less,White,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+35,Male,52,Conservative,Graduate degree,White,No,Yes,No,No,Pro-Choice,No,Yes,Behave no differently,5,1,4,No
+37,Male,50,Moderate,College degree,White,No,No,Yes,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,4,4,4,No
+38,Female,20,Moderate,Some college,White,No,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,5,4,No
+40,Male,62,Moderate,Some college,White,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,5,4,Yes
+41,Male,53,Moderate,College degree,Black,Yes,No,No,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,5,1,1,Yes
+45,Male,41,Conservative,Some college,White,Yes,No,No,No,Pro-life,Yes,No,More Willing,4,5,1,No
+49,Female,41,Conservative,College degree,Black,Yes,No,Yes,"Yes, very religious",Pro-Choice,No,No,Behave no differently,5,5,4,Yes
+52,Male,48,Liberal,Some college,White,No,No,Yes,"Yes, somewhat religious",Pro-life,Yes,No,Behave no differently,4,2,4,No
+54,Male,60,Liberal,College degree,White,No,No,No,"Yes, somewhat religious",Pro-Choice,Yes,No,Less Willing,5,1,4,No
+56,Male,37,Moderate,Graduate degree,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-life,Yes,Yes,Less Willing,4,5,1,Yes
+57,Male,30,Moderate,Some college,White,No,No,Yes,No,Pro-Choice,No,Yes,Behave no differently,5,2,5,No
+61,Male,42,Moderate,Graduate degree,Asian,No,Yes,Yes,"Yes, somewhat religious",Pro-Choice,No,Yes,Behave no differently,5,2,5,No
+63,Female,41,Moderate,Some college,White,Yes,No,Yes,"Yes, very religious",Pro-Choice,No,No,Behave no differently,5,2,4,No
+66,Female,67,Conservative,College degree,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-life,Yes,Yes,Behave no differently,2,5,1,No
+68,Female,37,Liberal,Some college,White,No,No,No,"Yes, very religious",Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+70,Male,44,Moderate,College degree,White,Yes,No,No,No,Pro-Choice,No,No,Behave no differently,4,1,5,No
+71,Female,36,Moderate,College degree,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,4,Yes
+75,Female,45,Moderate,Some college,Black,No,No,Yes,No,Pro-life,Yes,No,Behave no differently,5,5,1,No
+76,Female,37,Moderate,Some college,White,Yes,No,No,No,Pro-Choice,No,No,Behave no differently,4,4,5,Yes
+78,Male,19,Liberal,Some college,Black,No,No,Yes,No,Pro-life,No,No,Less Willing,5,1,5,No
+81,Male,44,Conservative,College degree,White,No,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+83,Male,35,Conservative,College degree,Black,Yes,No,Yes,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,5,5,4,Yes
+87,Female,58,Moderate,High school or less,Latino,Yes,No,Yes,"Yes, very religious",Pro-life,No,No,Less Willing,4,5,1,No
+90,Male,33,Moderate,High school or less,Black,Yes,No,Yes,"Yes, very religious",Pro-life,No,No,Behave no differently,5,5,4,Yes
+94,Female,25,Liberal,Some college,White,Yes,No,No,"Yes, very religious",Pro-Choice,Yes,No,Behave no differently,5,2,5,Yes
+97,Male,65,Conservative,Graduate degree,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,Yes,Behave no differently,5,5,1,No
+98,Female,53,Liberal,Graduate degree,White,Yes,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+101,Male,49,Moderate,High school or less,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,2,5,5,No
+102,Male,49,Liberal,College degree,White,No,No,No,No,Pro-Choice,No,No,More Willing,5,1,2,Yes
+104,Male,40,Moderate,College degree,White,Yes,No,No,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+107,Male,41,Conservative,College degree,White,No,Yes,Yes,"Yes, very religious",Pro-life,No,No,Behave no differently,4,5,2,Yes
+109,Male,35,Moderate,College degree,White,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+110,Male,67,Conservative,College degree,White,Yes,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,2,No
+111,Male,40,Liberal,High school or less,White,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,2,4,Yes
+113,Male,41,Conservative,High school or less,White,Yes,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+115,Male,44,Conservative,High school or less,White,Yes,No,Yes,"Yes, somewhat religious",Pro-life,Yes,No,Less Willing,1,5,1,No
+116,Male,44,Moderate,College degree,White,No,Yes,Yes,No,Pro-life,No,No,Behave no differently,4,5,5,Yes
+118,Female,23,Moderate,Some college,Latino,Yes,No,No,No,Pro-Choice,No,No,Behave no differently,5,4,5,Yes
+119,Female,66,Moderate,Graduate degree,White,Yes,No,Yes,"Yes, very religious",Pro-life,Yes,No,Behave no differently,2,5,1,Yes
+121,Male,43,Liberal,Graduate degree,White,No,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,2,Yes
+122,Male,40,Conservative,College degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,4,5,5,Yes
+124,Male,29,Liberal,Graduate degree,Black,No,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+125,Male,44,Moderate,College degree,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,4,4,4,Yes
+126,Male,41,Liberal,Graduate degree,White,Yes,Yes,Yes,No,Pro-Choice,No,No,Behave no differently,4,2,5,Yes
+128,Female,75,Conservative,Graduate degree,White,Yes,No,Yes,"Yes, very religious",Pro-Choice,No,Yes,Behave no differently,4,4,2,Yes
+131,Male,64,Conservative,Graduate degree,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,No,No,Less Willing,5,2,4,Yes
+132,Male,49,Conservative,Graduate degree,White,Yes,Yes,No,No,Pro-life,Yes,Yes,Behave no differently,1,5,1,Yes
+134,Male,38,Conservative,Graduate degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-life,Yes,No,Behave no differently,5,5,2,Yes
+136,Male,20,Moderate,Some college,White,No,No,No,"Yes, somewhat religious",Pro-Choice,No,No,Less Willing,5,1,5,Yes
+140,Female,58,Liberal,High school or less,White,No,No,No,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,5,2,4,Yes
+147,Male,73,Moderate,High school or less,White,Yes,No,No,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,5,No
+149,Male,63,Moderate,High school or less,White,Yes,No,Yes,No,Pro-life,No,Yes,Behave no differently,5,1,5,No
+151,Female,57,Conservative,College degree,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,No,Less Willing,4,5,1,Yes
+152,Male,63,Liberal,Graduate degree,White,Yes,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+154,Male,61,Liberal,College degree,White,Yes,No,No,"Yes, very religious",Pro-Choice,Yes,No,Behave no differently,5,2,1,Yes
+155,Female,37,Conservative,Graduate degree,White,Yes,Yes,No,"Yes, very religious",Pro-life,Yes,Yes,Behave no differently,2,5,1,Yes
+158,Female,27,Moderate,Some college,White,No,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+159,Male,35,Moderate,College degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,4,4,No
+161,Male,51,Moderate,High school or less,White,Yes,No,No,"Yes, somewhat religious",Pro-Choice,No,Yes,Behave no differently,5,2,4,No
+163,Female,71,Conservative,High school or less,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,No,Behave no differently,1,5,1,No
+164,Female,70,Moderate,High school or less,White,No,Yes,No,No,Pro-life,Yes,Yes,Behave no differently,5,1,2,Yes
+167,Male,26,Conservative,Some college,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,4,1,1,Yes
+169,Female,38,Conservative,College degree,White,Yes,Yes,No,"Yes, somewhat religious",Pro-life,Yes,Yes,Less Willing,2,5,1,Yes
+170,Male,60,Moderate,Graduate degree,White,No,No,Yes,No,Pro-life,No,No,Behave no differently,4,5,4,Yes
+171,Female,26,Moderate,College degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,Yes,No,Behave no differently,5,2,2,Yes
+172,Male,34,Conservative,Graduate degree,White,Yes,Yes,No,"Yes, very religious",Pro-life,Yes,Yes,Behave no differently,5,5,1,Yes
+174,Female,45,Liberal,Some college,White,Yes,No,Yes,No,Pro-Choice,Yes,No,Behave no differently,5,4,2,Yes
+175,Female,44,Moderate,Graduate degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,4,No
+178,Male,19,Moderate,Some college,White,No,No,Yes,No,Pro-life,No,No,Behave no differently,4,5,5,Yes
+180,Female,31,Conservative,High school or less,White,Yes,No,Yes,"Yes, very religious",Pro-life,Yes,No,Less Willing,1,5,2,Yes
+181,Female,42,Conservative,College degree,White,Yes,Yes,No,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,2,5,4,Yes
+182,Female,56,Moderate,High school or less,Latino,Yes,No,No,"Yes, very religious",Pro-life,Yes,Yes,Behave no differently,1,1,1,Yes
+184,Male,61,Conservative,College degree,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,No,No,Behave no differently,5,5,1,Yes
+185,Female,26,Liberal,College degree,White,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+186,Male,34,Liberal,Graduate degree,White,Yes,No,Yes,No,Pro-Choice,Yes,No,Behave no differently,5,4,4,Yes
+189,Male,42,Moderate,College degree,White,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+192,Male,29,Moderate,Some college,Latino,Yes,No,No,No,Pro-Choice,No,No,Less Willing,5,2,5,Yes
+193,Male,35,Liberal,Some college,White,No,No,No,No,Pro-Choice,Yes,No,Behave no differently,5,2,5,No
+195,Male,42,Moderate,College degree,Asian,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,No,Behave no differently,5,2,1,Yes
+198,Female,58,Conservative,College degree,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,Yes,Behave no differently,4,5,5,Yes
+199,Female,50,Moderate,College degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,2,1,Yes
+200,Male,36,Moderate,High school or less,White,Yes,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,2,5,Yes
+203,Male,45,Liberal,College degree,Black,No,No,No,No,Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+206,Female,30,Moderate,College degree,White,No,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,2,5,Yes
+207,Female,55,Moderate,Some college,White,No,No,No,No,Pro-Choice,No,No,Behave no differently,5,5,1,Yes
+208,Male,18,Liberal,Some college,White,No,No,No,No,Pro-Choice,No,Yes,Less Willing,5,2,5,Yes
+209,Female,24,Liberal,Some college,White,Yes,Yes,Yes,No,Pro-life,No,No,Behave no differently,4,4,4,Yes
+210,Male,61,Conservative,Graduate degree,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-Choice,Yes,Yes,Behave no differently,4,4,1,Yes
+211,Female,49,Conservative,College degree,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,No,Behave no differently,1,5,1,Yes
+213,Male,60,Moderate,College degree,Black,No,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,2,4,Yes
+215,Female,67,Moderate,High school or less,White,No,No,Yes,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,4,2,4,Yes
+216,Male,21,Conservative,High school or less,Black,No,No,Yes,No,Pro-Choice,No,Yes,More Willing,4,5,4,No
+220,Male,50,Moderate,Graduate degree,Black,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,Yes,Behave no differently,1,5,1,No
+225,Female,37,Conservative,Some college,Black,Yes,Yes,No,"Yes, very religious",Pro-life,Yes,Yes,More Willing,4,5,2,No
+226,Male,26,Moderate,College degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,2,5,Yes
+232,Female,51,Moderate,Some college,Black,Yes,Yes,Yes,"Yes, very religious",Pro-Choice,Yes,Yes,Behave no differently,5,5,1,No
+237,Male,72,Liberal,Graduate degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+240,Male,63,Conservative,College degree,Black,Yes,Yes,Yes,"Yes, somewhat religious",Pro-Choice,Yes,No,Behave no differently,5,2,4,Yes
+241,Female,74,Moderate,Graduate degree,White,No,No,No,"Yes, very religious",Pro-Choice,No,No,Behave no differently,4,2,4,Yes
+242,Male,57,Conservative,College degree,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,No,Less Willing,1,5,1,Yes
+244,Male,56,Conservative,High school or less,White,Yes,No,Yes,No,Pro-Choice,No,No,Behave no differently,4,4,5,Yes
+245,Male,21,Conservative,High school or less,White,No,No,No,"Yes, very religious",Pro-Choice,No,No,Behave no differently,5,5,5,No
+246,Male,70,Liberal,Some college,White,No,No,No,"Yes, somewhat religious",Pro-Choice,No,No,Less Willing,5,1,5,Yes
+249,Female,21,Conservative,Some college,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,Yes,Less Willing,4,5,5,No
+252,Female,40,Moderate,College degree,White,No,No,Yes,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,5,4,1,Yes
+253,Female,59,Liberal,Some college,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,Yes,Less Willing,1,5,1,No
+254,Female,26,Moderate,Some college,White,Yes,No,No,"Yes, very religious",Pro-life,Yes,No,Behave no differently,4,5,4,Yes
+255,Male,72,Liberal,College degree,White,No,No,No,"Yes, very religious",Pro-Choice,No,Yes,Behave no differently,5,1,5,Yes
+256,Male,58,Moderate,College degree,Asian,No,Yes,No,"Yes, somewhat religious",Pro-life,No,Yes,Behave no differently,4,5,5,No
+257,Male,68,Moderate,Some college,White,No,No,No,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,2,No
+260,Female,40,Moderate,Graduate degree,Black,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Less Willing,5,1,2,No
+263,Female,44,Conservative,High school or less,Latino,No,No,Yes,No,Pro-life,No,No,Behave no differently,5,5,4,No
+265,Male,69,Moderate,College degree,White,Yes,No,No,No,Pro-Choice,No,No,Behave no differently,5,1,5,No
+266,Female,60,Liberal,College degree,White,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,5,No
+270,Male,65,Moderate,High school or less,White,Yes,No,No,"Yes, very religious",Pro-Choice,Yes,Yes,Less Willing,4,2,4,Yes
+271,Male,88,Moderate,High school or less,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,4,4,2,No
+272,Female,57,Moderate,College degree,White,No,Yes,Yes,No,Pro-life,No,No,Behave no differently,5,5,4,Yes
+274,Male,63,Moderate,High school or less,White,Yes,Yes,Yes,"Yes, very religious",Pro-life,Yes,No,Less Willing,4,2,2,Yes
+275,Female,46,Liberal,Graduate degree,White,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,4,No
+276,Female,55,Moderate,Some college,White,Yes,Yes,Yes,No,Pro-Choice,Yes,Yes,Behave no differently,5,2,1,Yes
+278,Male,71,Moderate,High school or less,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-life,No,Yes,Less Willing,4,4,2,Yes
+279,Female,75,Liberal,Some college,White,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+280,Male,50,Moderate,High school or less,White,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,No,Yes,Behave no differently,5,1,5,Yes
+281,Female,63,Liberal,College degree,White,No,No,Yes,"Yes, somewhat religious",Pro-Choice,Yes,No,Behave no differently,5,1,1,Yes
+282,Male,59,Moderate,College degree,White,No,No,No,"Yes, somewhat religious",Pro-life,No,No,Less Willing,4,5,4,Yes
+283,Female,59,Conservative,Graduate degree,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-Choice,Yes,No,Behave no differently,4,4,2,Yes
+284,Female,20,Conservative,Some college,White,No,No,No,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+288,Male,24,Liberal,College degree,White,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+289,Male,22,Moderate,Some college,Asian,No,No,No,No,Pro-Choice,No,No,Behave no differently,5,4,5,Yes
+291,Female,46,Conservative,Some college,White,Yes,Yes,Yes,"Yes, very religious",Pro-Choice,Yes,Yes,Behave no differently,4,4,4,Yes
+299,Female,71,Liberal,College degree,White,No,No,Yes,No,Pro-Choice,No,No,Behave no differently,5,2,4,No
+301,Male,50,Liberal,Some college,Black,No,No,No,"Yes, very religious",Pro-life,Yes,Yes,Behave no differently,5,2,5,No
+304,Male,33,Conservative,High school or less,White,No,No,No,No,Pro-life,No,No,Behave no differently,5,4,5,Yes
+305,Female,92,Moderate,Graduate degree,White,No,No,Yes,"Yes, somewhat religious",Pro-Choice,Yes,No,Behave no differently,5,2,4,Yes
+306,Female,55,Liberal,Some college,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-life,Yes,No,Behave no differently,4,5,2,Yes
+308,Male,62,Liberal,High school or less,White,Yes,No,Yes,"Yes, somewhat religious",Pro-life,Yes,No,Less Willing,4,4,1,No
+312,Male,45,Moderate,Some college,White,No,No,No,"Yes, somewhat religious",Pro-life,No,No,Less Willing,5,5,5,Yes
+314,Female,57,Moderate,College degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-life,No,No,Behave no differently,4,5,2,Yes
+315,Female,31,Liberal,College degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,5,No
+319,Female,66,Conservative,Graduate degree,White,No,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,2,2,Yes
+320,Female,65,Liberal,Graduate degree,White,Yes,No,Yes,"Yes, somewhat religious",Pro-Choice,No,No,Behave no differently,5,1,5,No
+324,Male,47,Moderate,High school or less,White,No,No,No,No,Pro-life,No,No,Less Willing,5,1,4,Yes
+326,Female,47,Conservative,High school or less,White,Yes,Yes,Yes,"Yes, somewhat religious",Pro-life,No,Yes,Behave no differently,5,4,5,No
+327,Female,68,Moderate,Graduate degree,White,Yes,No,No,"Yes, very religious",Pro-life,Yes,No,Behave no differently,5,5,2,No
+330,Male,20,Moderate,High school or less,White,Yes,Yes,Yes,No,Pro-Choice,No,No,Less Willing,5,2,5,No
+331,Male,65,Conservative,College degree,Latino,Yes,No,No,No,Pro-Choice,Yes,No,Behave no differently,5,2,1,No
+333,Female,54,Moderate,Graduate degree,White,Yes,No,No,No,Pro-Choice,No,No,Behave no differently,5,1,5,Yes
+334,Male,54,Conservative,Some college,Latino,Yes,Yes,No,"Yes, somewhat religious",Pro-life,Yes,Yes,Less Willing,5,1,5,No
